@@ -20,6 +20,10 @@ Day 2 was much more of a challenge for me, but definitely manageable and it gave
 
 Just as a personal note, I find myself getting the correct answer when it comes to the output, however when looking at the answer code, mine is not quite as efficient. Something to improve on in the future is to actually do the math when declaring the variable because it saves a lot of equation writing for myself. Looking forward to day 3 tomorrow!
 
+<h2>Day 3 </h2>
+
+Day 3 was all about conditional operators and logical operators. It honestly felt like a lot of work to fit into one hour so I actually was unable to complete the entire day 3 material. The exercise that took me the longest time was the leap year checker program. The course instructor gave us the assingment on codingrooms (https://app.codingrooms.com/management/assignments/364924/overview) and we were given all the equations that we needed, but had to make the program to check if a given year was a leap year or not. I actually did not have any issues getting the if/else statements setup, but what did give me issues was using the correct mathamatical opperator to check if there was a remainder or not. For a personal note, using "%" was the solution to this problem. This took up the majority of my time for the day, and I will continue working on the day 3 material tomorrow. The challenge was enjoyable and I am finding that coming up with coding solutions uses a different thinking method and I am rather enjoying how the learning process as it is a challenge, but not overwhelmingly so.
+
 <!--
  ```diff
 - text in red
