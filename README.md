@@ -24,6 +24,10 @@ Just as a personal note, I find myself getting the correct answer when it comes 
 
 Day 3 was all about conditional operators and logical operators. It honestly felt like a lot of work to fit into one hour so I actually was unable to complete the entire day 3 material. The exercise that took me the longest time was the leap year checker program. The course instructor gave us the assingment on codingrooms (https://app.codingrooms.com/management/assignments/364924/overview) and we were given all the equations that we needed, but had to make the program to check if a given year was a leap year or not. I actually did not have any issues getting the if/else statements setup, but what did give me issues was using the correct mathamatical opperator to check if there was a remainder or not. For a personal note, using "%" was the solution to this problem. This took up the majority of my time for the day, and I will continue working on the day 3 material tomorrow. The challenge was enjoyable and I am finding that coming up with coding solutions uses a different thinking method and I am rather enjoying how the learning process as it is a challenge, but not overwhelmingly so.
 
+<h2>Day 4 </h2>
+
+I finally got through the day 3 material today! I think that taking my time with conditional and logical operators was a good call. While I do understand which each operator does, when given a task it will take me a bit to figure it all out. The method of creating a flow chart really helps visualize this process. Overall, not a whole lot to add onto from yesterdays notes. The final project was a choose your own adventure game that honestly wasn't too challenging after completing the previous challenges. I am looking forward to moving on to a new concept tomorrow!
+
 <!--
  ```diff
 - text in red
