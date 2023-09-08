@@ -28,6 +28,9 @@ Day 3 was all about conditional operators and logical operators. It honestly fel
 
 I finally got through the day 3 material today! I think that taking my time with conditional and logical operators was a good call. While I do understand which each operator does, when given a task it will take me a bit to figure it all out. The method of creating a flow chart really helps visualize this process. Overall, not a whole lot to add onto from yesterdays notes. The final project was a choose your own adventure game that honestly wasn't too challenging after completing the previous challenges. I am looking forward to moving on to a new concept tomorrow!
 
+<h2>Day 5 </h2>
+
+Today I was able to get through most of the Day 4 content aside from the final assignment. The concepts covered in today's work were randomization and lists, which compared to the day 3 material, I felt like I understood quite quickly. I think that is because with conditional statements, it is just a different way of thinking. While I understood how they worked, actually building these if/else statements was difficult. Either way, today I made a coin flip program, a program that randomly chose who was going to pay for dinner, and then a treasure map program. The treasure map program was the most difficult of the bunch and I couldn't wrap my head around how to place the 'x' on the map, but after some work I was able to get it done with the help of the lecture. Tomorrow I am going to complete the rock, paper, scissors program. It is a bit of an intimidating one, but I am hoping that I can break it down into small bits so that it doesn't feel as daunting. 
 <!--
  ```diff
 - text in red
