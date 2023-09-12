@@ -35,6 +35,10 @@ Today I was able to get through most of the Day 4 content aside from the final a
 <h2>Day 6 </h2>
 
 I picked back up on Monday and started off strong with loops! This is a concept that I generally knew how they worked, but I found out that I knew way less than I thought. I'm glad the course had many exercises to run through because I was struggling to actually make use of for loops. After doing about 5 or 6 exercises, I was able to complete the password generator program without too much of an issue, which felt really nice. I decided to take the weekend off because I did find myself getting a bit frustrated with myself. The 100 days of coding challenge is something that first and foremost is to better understand python and trying to complete all 100 days of content in the 100 days is a goal that would be great, but not at the expense of not properly learning the concepts. Looking forward to tomorrow!
+
+<h2>Day 7 </h2>
+
+One week down! It was all about while loops and functions today. Functions are always a little weird for me to get my head around at first, but honestly I felt pretty good today. I didn't get through all of the days content, but I will be picking that back up tomorrow as there is a decent little project to work on that might give me a good challenge. Not much to report today so I am going to keep this entry short! 
 <!--
  ```diff
 - text in red
