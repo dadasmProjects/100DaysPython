@@ -39,6 +39,10 @@ I picked back up on Monday and started off strong with loops! This is a concept 
 <h2>Day 7 </h2>
 
 One week down! It was all about while loops and functions today. Functions are always a little weird for me to get my head around at first, but honestly I felt pretty good today. I didn't get through all of the days content, but I will be picking that back up tomorrow as there is a decent little project to work on that might give me a good challenge. Not much to report today so I am going to keep this entry short! 
+
+<h2>Day 8 </h2>
+
+Day 8 I finished up the content about while loops quickly and then I spent some time reviewing the concepts I have learned throughout the last week of coding. It has been a ton of information at once, but it is sinking in pretty well at this moment. I do have times where I struggle to remember simple syntax things, but that will come with more practice. Today we went through these exercises on reborg where I would write while loops that would make a character hurdle until he got to the objective. It was a pretty easy set of exercises relative to what I have done in previous days so that was nice. Tomorrow is fully dedicated to making a hangman project so I am looking forward to that quite a bit! The hangman project is going to use everything I have learned so far and put it all into one project. This is the biggest project that I have had to do so far in the course and I am looking forward to the challenge. Telling myself now just so I can get it out there, I know it will be frustrating and it will probably take me longer than I would want, but I just need to keep a positive mindset. 
 <!--
  ```diff
 - text in red
