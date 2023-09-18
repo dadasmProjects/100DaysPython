@@ -47,6 +47,9 @@ Day 8 I finished up the content about while loops quickly and then I spent some 
 <h2>Day 9-11 </h2>
 
 Alright, well I did not update this with my daily work and that is mostly because I feel as if my work was not as productive as it should be these last few days, but here is what I have learned over the last couple of days. First off, I learned about functions, which is a concept that used to confuse me, but now I understand pretty well at a basic level. That was really the only new concept learned in the last couple of days, but the two projects that I worked on combined all of what I have learned so far and required me to put together a hangman game and a caesar cipher program. I will talk about the caesar cipher since it is fresh in my mind. I will be honest and say that I was getting frustrated with myself when trying to work through this program. The best way I can describe it is that I have these tools in my bag, but I don't which tool to use when, sort of like trying to hammer a nail with a screwdriver. Basically all I could do for this ceasar cipher program was follow along with the videos and learn with them instead of trying to work through most of it by myself and thats because it just felt over my head at this point. Tomorrow I may redo the program and see how much of it I can figure out on my own after following along with the solution videos. I felt like I understood why certain things were being done, but I felt like it was something that even if I had tried all day, I would have never thought of the solution. Overall, I am feeling pretty defeated today, but I am doing my best to remind myself that the frustration and hard work is going to pay off in the end. 
+<br />
+
+On a more positive note, the course has smaller exercises built into each day and I had no problem with the two exercises before the ceasar cipher!
 <!--
  ```diff
 - text in red
